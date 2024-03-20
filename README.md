@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a software engineer. I'm currently working as a game developer. I live Istanbul. 
 <!--
 **selimhatipoglu/selimhatipoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

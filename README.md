@@ -1,6 +1,7 @@
-<h2 align="left">
+
 # 💫 About Me:
-### Hi there 👋<br><br>I am a software engineer. I'm currently working as a game developer. I live Istanbul.
+
+  ### Hi there 👋<br><br>I am a software engineer. I'm currently working as a game developer. I live Istanbul.
 
 
 # 💻 Tech Stack:
@@ -15,24 +16,8 @@
 
 ###
 
-<h2 align="left">Languages and Tools I Use<br>-Java<br>- Kotlin<br>-C#<br>- Unity<br>- Android Studio<br>- Git<br>-Firebase<br>-Microsoft SQL Server<br>-JS<br>-TS<br>-React</h2>
-
-
-###
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehmet-selim-hatipo%C4%9Flu-42b490236/) 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/selimhatipoglu/count.svg?"  />
-</div>
-
-###
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=selimhatipoglu&icon=0&color=0)](https://visitcount.itsvg.in)
